@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jorge Ponce</h1>
 <h3 align="center">Software Engineering Student | Backend Developer | AI & Automation Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thealaskage&label=Profile%20views&color=0e75b6&style=flat" alt="thealaskage" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thealaskage" alt="thealaskage" /></a> </p>
 
 - 🔭 I’m currently studying on **UPC**
