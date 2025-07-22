@@ -13,6 +13,7 @@
 
 - 🎯 My Hobbies **I love practicing sports, programming, and listening to music**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
