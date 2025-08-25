@@ -25,10 +25,9 @@
 ### 🏆 GitHub Trophies
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thealaskage&theme=algolia&row=1&column=7" alt="trophies"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=thealaskage&theme=algolia&row=1&column=7&no-frame=true&no-bg=true" alt="trophies">
 </p>
+
 
 ---
 
