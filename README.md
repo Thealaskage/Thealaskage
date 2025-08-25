@@ -22,14 +22,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-![trophies](https://github-profile-trophy.vercel.app/?username=thealaskage&theme=algolia&row=1&column=7&no-frame=true&no-bg=true&cache-bust=20250825-1)
-
-
-
----
-
 ### 📊 GitHub Stats
 
 <p align="left">
