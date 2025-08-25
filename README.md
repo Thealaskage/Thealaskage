@@ -24,9 +24,8 @@
 
 ### 🏆 GitHub Trophies
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=thealaskage&theme=algolia&row=1&column=7&no-frame=true&no-bg=true" alt="trophies">
-</p>
+![trophies](https://github-profile-trophy.vercel.app/?username=thealaskage&theme=algolia&row=1&column=7&no-frame=true&no-bg=true)
+
 
 
 ---
