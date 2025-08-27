@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge Ponce</h1>
-<h3 align="center">Software Engineering Student | Backend Developer | AI & Automation Enthusiast</h3>
+<h3 align="center">Software Engineering Student | Backend Developer | Power Platform Developer | AI & Automation Enthusiast</h3>
 
 ---
 
