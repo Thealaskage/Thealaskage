@@ -50,7 +50,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=postman,figma,selenium)](https://skillicons.dev)
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thealaskage&show_icons=true&locale=en&layout=compact&theme=radical" alt="top-langs" width="400"/>
 </p>
