@@ -11,26 +11,44 @@
   </a>
 </p>
 
-🙋 About Me
+## 🙋 About Me
 
-🎓 Studying Software Engineering at UPC, Lima
-🔭 Currently building Reportia — a citizen incident reporting platform for Lima Metropolitana
-🌱 Learning Machine Learning & Deep Learning
-💬 Ask me about ASP.NET Core, Clean Architecture, REST APIs
-🎯 Hobbies: sports, programming, and music
+- 🎓 Studying **Software Engineering** at **UPC**, Lima
+- 🔭 Currently building **Reportia** — a citizen incident reporting platform for Lima Metropolitana
+- 🌱 Learning **Machine Learning & Deep Learning**
+- 💬 Ask me about **ASP.NET Core, Clean Architecture, REST APIs**
+- 🎯 Hobbies: sports, programming, and music
 
 
 ## 🛠️ Tech Stack
 
-| Area | Technologies |
-|------|-------------|
-| **Backend** | C# · .NET 8 · Java · Spring Boot · Node.js |
-| **Frontend** | TypeScript · React · Angular · Vue.js · HTML · CSS |
-| **Mobile** | Flutter · Dart · Ionic · Android · Kotlin |
-| **Cloud & DevOps** | Azure · Firebase · Docker · Git |
-| **Databases** | MySQL · SQL Server |
-| **AI / ML** | Python · TensorFlow · PyTorch · scikit-learn · OpenCV |
-| **Tools** | Postman · Figma · Selenium |
+**Backend**
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,nodejs)](https://skillicons.dev)
+
+**Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=ts,react,angular,vue,html,css)](https://skillicons.dev)
+
+**Mobile**
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio)](https://skillicons.dev)
+
+**Cloud & DevOps**
+
+[![My Skills](https://skillicons.dev/icons?i=azure,firebase,docker,git)](https://skillicons.dev)
+
+**Databases**
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlserver)](https://skillicons.dev)
+
+**AI / ML**
+
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv)](https://skillicons.dev)
+
+**Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=postman,figma,selenium)](https://skillicons.dev)
 
 📊 GitHub Stats
 <p align="center">
