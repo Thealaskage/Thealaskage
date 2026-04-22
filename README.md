@@ -20,44 +20,17 @@
 🎯 Hobbies: sports, programming, and music
 
 
-🛠️ Tech Stack
-Backend
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Frontend
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mobile
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Cloud & DevOps
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Databases
-Mostrar imagen
-Mostrar imagen
-AI / ML
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Tools
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
+## 🛠️ Tech Stack
+
+| Area | Technologies |
+|------|-------------|
+| **Backend** | C# · .NET 8 · Java · Spring Boot · Node.js |
+| **Frontend** | TypeScript · React · Angular · Vue.js · HTML · CSS |
+| **Mobile** | Flutter · Dart · Ionic · Android · Kotlin |
+| **Cloud & DevOps** | Azure · Firebase · Docker · Git |
+| **Databases** | MySQL · SQL Server |
+| **AI / ML** | Python · TensorFlow · PyTorch · scikit-learn · OpenCV |
+| **Tools** | Postman · Figma · Selenium |
 
 📊 GitHub Stats
 <p align="center">
