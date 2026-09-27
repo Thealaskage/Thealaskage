@@ -24,7 +24,7 @@ Citizen urban-incident reporting platform for Lima Metropolitana. Citizens repor
 - **Backend:** .NET 8 · Clean Architecture · DDD · CQRS · Transactional Outbox
 - **Mobile:** React Native (Expo) · **Chatbot:** n8n + WhatsApp
 - **CI/CD:** GitHub Actions (PR build validation) → Docker image → Azure Container Apps
-- **Quality:** xUnit · Testcontainers (MySQL 8) · k6 load tests · OWASP ZAP · SonarQube
+- **Quality:** xUnit · Testcontainers (MySQL 8) · k6 load tests · OWASP ZAP 
 
 <!-- Replace with the real repo link(s) -->
 <!-- [Backend repo](https://github.com/Thealaskage/REPO) · [Mobile repo](https://github.com/Thealaskage/REPO) -->
